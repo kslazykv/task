@@ -1,4 +1,4 @@
-# CHOOOSE
+# Task
 
 #### The following repository contains my solution to the task given by CHOOOSE. The purpose of this task was to create a responsive layout with card elements. Depending on the json file, corresponding number of cards should be fetched together with all the neccessary information (title, CO2 emission, number of stars, etc.).
 
