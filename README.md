@@ -28,10 +28,10 @@ Now you should be able to see the following layout:
 
 If you go to "src/data/data.json", you can modify it in the way that...
 
-... 2 cards are displayed:
+2 cards are displayed:
 <img width=100% align="center" src="public\demo\cards2.jpg" title="cards3"/>
 
 or 5 cards are displayed:
 <img width=100% align="center" src="public\demo\cards5.jpg" title="cards3"/>
 
-or to any other configuration. 
+or you can adjust it to your preferences. 
