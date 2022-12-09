@@ -1,29 +1,28 @@
 {
     "elements":[
-                {
-                    "title":"European Quest",
-                    "country":8,
-                    "days":21,
-                    "emissions":"810 kg",
-                    "stars":4.7,
-                    "background":"/road.jpg"
-                },
-                {
-                    "title":"Autumn Roadtrip",
-                    "country":1,
-                    "days":14,
-                    "emissions":"3.56 t",
-                    "stars":4.7,
-                    "background":"/desert.jpg"
-                },
-                {
-                    "title":"Diving adventure in Egypt",
-                    "country":1,
-                    "days":5,
-                    "emissions":"6.92 t",
-                    "stars":4.7,
-                    "background":"/ocean.jpg"
-                }
-               
+        {
+            "title":"European Quest",
+            "country":8,
+            "days":21,
+            "emissions":"810 kg",
+            "stars":4.7,
+            "background":"/road.jpg"
+        },
+        {
+            "title":"Autumn Roadtrip",
+            "country":1,
+            "days":14,
+            "emissions":"3.56 t",
+            "stars":4.7,
+            "background":"/desert.jpg"
+        },
+        {
+            "title":"Diving adventure in Egypt",
+            "country":1,
+            "days":5,
+            "emissions":"6.92 t",
+            "stars":4.7,
+            "background":"/ocean.jpg"
+        }
     ]
 }
